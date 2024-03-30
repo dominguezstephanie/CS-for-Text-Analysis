@@ -154,21 +154,3 @@ def main():
   print(stringToList("Historically speaking, data has been controlled by a very specific group of people. As a result, many people have been left out of the data creation process thus creating implicit bias within our data... by shifting the paradigm in which data exists to be more accessible and usable I think that we will see a more equitable e-universe."))
 main()
 
-An approximately ~150 word paragraph describing your process in developing, testing and debugging your algorithms.
- What tests did you run to make sure your code worked? What parts were the most challenging?  What parts felt easiest?
-
-
-I mostly used other code from other checkpoints to help me create this function. My debugging process was slightly more difficult because colab
-was giving me issues. More specifically, I realized I had "lost" a function in the mix of all the code. I found labeling to be really helpful and although
-the function blocks are required now, I found myself using them anyways because therye very helpful!
-
-n approximately ~250 word description, in language accessible to someone who is a novice computer scientist, of one of the following concepts:
-main function
-Scope
-If-else statements
-How lists are different from strings
-While loops
-
-
-Lists are different from strings because unlike strings, lists are mutable. This means you can 'skip' over an item/mute it. You cannot do this same thing in a string.
-A string is considered anything put into qutoation marks. A list goes in brakets, and can be a grocery list, the positon of something, etc.
